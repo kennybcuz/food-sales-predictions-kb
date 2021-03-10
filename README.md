@@ -39,7 +39,8 @@ See project1-partX notebooks
 Regression Models predict item outlet sales with approximately $800 mean absolute error
 * KNNR MAE: $787
 * Bagged Trees MAE: $801
-* Random Forests MAE: $802
+* Random Forests MAE: $802  
+  
 Features that most affect Item Outlet Sales
 * Item MRP
 * Outlet Type
